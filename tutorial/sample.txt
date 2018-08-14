@@ -7,3 +7,9 @@
 public void function1 (){
     balabala;
 }
+
+public void function2{
+    balabala;
+}
+
+又添加了一些功能代码，但没有push
