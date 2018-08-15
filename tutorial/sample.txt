@@ -1,7 +1,13 @@
 #include <iostream>
 
+using namespace std;
+
 public int main(){
+    
     functionNew();
+    function1();
+    cout<<balabala<<endl;
+
     return 0;
 }
 
