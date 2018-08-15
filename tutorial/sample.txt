@@ -1,5 +1,3 @@
-我在学习GIT
-
 public int main(){
     return 0;
 }
@@ -11,8 +9,6 @@ public void function1 (){
 public void function2(){
     balabala;
 }
-
-又添加了一些功能代码，但没有push
 
 public void functionNew(){
     新的code;
