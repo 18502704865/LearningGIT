@@ -1,4 +1,7 @@
+#include <iostream>
+
 public int main(){
+    functionNew();
     return 0;
 }
 
