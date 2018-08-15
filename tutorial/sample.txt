@@ -4,6 +4,10 @@
 
 又添加了一些功能代码，但没有push
 
+public int main(){
+    return 0;
+}
+
 public void function1 (){
     balabala;
 }
