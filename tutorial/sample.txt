@@ -1,6 +1,10 @@
 #include <iostreanm>
 
 public int main(){
+    
+    function1();
+    cout<<balabala<<endl;
+    
     return 0;
 }
 
